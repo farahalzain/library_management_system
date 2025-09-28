@@ -51,8 +51,10 @@ library_management_system/
 6. Exit
 
 Enter your choice: 1
-[1] Title: Python Basics | Available: Yes
-[2] Title: Data Structures | Available: No (Borrowed by Ali)
+[Book] python programming by Jhon Smith | Pages: 350 | Status: Available    
+[DVD] data analysis with pandas by Farah Alzain | Duration: 0 min | Status: 
+Available
+[Magazine] learn excel by Jane Doe | Issue: 0 | Status: Available
 ```
 
 ---
