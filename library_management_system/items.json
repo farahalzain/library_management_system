@@ -1,0 +1,26 @@
+[
+  {
+    "item_id": "101",
+    "title": "python programming",
+    "author": "Jhon Smith",
+    "pages": 350,
+    "is_available": true,
+    "type": "book"
+  },
+  {
+    "item_id": "102",
+    "title": "data analysis with pandas",
+    "author": "Farah Alzain",
+    "pages": 220,
+    "is_available": true,
+    "type": "dvd"
+  },
+  {
+    "item_id": "201",
+    "title": "learn excel",
+    "author": "Jane Doe",
+    "pages": 60,
+    "is_available": true,
+    "type": "magazine"
+  }
+]

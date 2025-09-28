@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": "user1",
+    "name": "laila",
+    "email": "laila.com",
+    "borrowed_items": ["102", "201"]
+  },
+  {
+    "user_id": "user2",
+    "name": "Omer",
+    "email": "Omer.com",
+    "borrowed_items": []
+  }
+]
